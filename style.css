@@ -586,9 +586,9 @@ section {
 .contact-info-box {
     text-align: center;
     background: var(--white);
-    padding: 3rem;
+    padding: 4rem;
     border-radius: 20px;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
     box-shadow: var(--shadow-sm);
 }
 
@@ -775,4 +775,5 @@ footer {
         flex-direction: column;
         text-align: center;
     }
+
 }
